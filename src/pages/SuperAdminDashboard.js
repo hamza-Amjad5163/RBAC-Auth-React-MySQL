@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Chart, registerables } from "chart.js";
 import { FaUser, FaChartLine, FaCog, FaEnvelope, FaUsers } from "react-icons/fa";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/Navbars";
 
 Chart.register(...registerables);
 
