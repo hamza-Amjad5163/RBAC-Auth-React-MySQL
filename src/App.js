@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 import ProtectedRoute from "./ProtectedRoute.js";
 import Home from "./pages/Home";
 import Login from "./components/auth/Login";
